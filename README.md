@@ -6,7 +6,7 @@
 
 - 💞️ İşbirliği yapmak istediğiniz projeler için bize ulaşabilirsiniz.
 
-- 📫 Bize ulaşmak için ekayazilim.com.tr adresini ziyaret edebilir veya doğrudan GitHub üzerinden mesaj atabilirsiniz.
+- 📫 Bize ulaşmak için ekayazilim.com.tr adresini ziyaret edebilir veya doğrudan info@ekayazilim.com.tr üzerinden mail atabilirsiniz.
 
 <!---
 ekayazilim/ekayazilim, bu dosyasıyla birlikte ✨ özel ✨ bir depo olarak görüntülenir çünkü GitHub profilinizdeki README.md dosyası olarak kullanılır. Yaptığınız değişiklikleri önizlemek için Preview bağlantısını tıklayabilirsiniz.
