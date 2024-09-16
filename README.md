@@ -14,4 +14,4 @@ ekayazilim/ekayazilim, bu dosyasıyla birlikte ✨ özel ✨ bir depo olarak gö
 
 Ayrıca, yazılım dünyasındaki gelişmeleri takip eden bir şirket olarak, farklı programlama dillerinde projeler geliştiriyoruz.
 
-Projelerimizde Python, Java, C++, JavaScript ve Ruby gibi farklı programlama dillerini kullanarak müşterilerimize en iyi çözümleri sunuyoruz.
+Projelerimizde Php, Python, Java, C++, JavaScript ve Ruby gibi farklı programlama dillerini kullanarak müşterilerimize en iyi çözümleri sunuyoruz.
