@@ -12,6 +12,6 @@
 ekayazilim/ekayazilim, bu dosyasıyla birlikte ✨ özel ✨ bir depo olarak görüntülenir çünkü GitHub profilinizdeki README.md dosyası olarak kullanılır. Yaptığınız değişiklikleri önizlemek için Preview bağlantısını tıklayabilirsiniz.
 --->
 
-Ayrıca, yazılım dünyasındaki gelişmeleri takip eden bir şirket olarak, farklı programlama dillerinde projeler geliştirdiğimizi belirterek aşağıdaki gibi bir cümle ekleyebiliriz:
+Ayrıca, yazılım dünyasındaki gelişmeleri takip eden bir şirket olarak, farklı programlama dillerinde projeler geliştiriyoruz.
 
-"Projelerimizde Python, Java, C++, JavaScript ve Ruby gibi farklı programlama dillerini kullanarak müşterilerimize en iyi çözümleri sunuyoruz."
+Projelerimizde Python, Java, C++, JavaScript ve Ruby gibi farklı programlama dillerini kullanarak müşterilerimize en iyi çözümleri sunuyoruz.
