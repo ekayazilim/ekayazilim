@@ -1,4 +1,4 @@
-- 👋 Merhaba, ben @ekayazilim. Ekayazilim.com.tr web sitesinde faaliyet gösteren bir yazılım şirketi olarak, yazılım dünyasındaki gelişmeleri yakından takip ediyor ve müşterilerimize en kaliteli hizmeti sunmak için çalışıyoruz.
+- 👋 Merhaba, Ekayazilim.com.tr & ekasunucu.com web sitesinde faaliyet gösteren bir yazılım şirketi olarak, yazılım dünyasındaki gelişmeleri yakından takip ediyor ve müşterilerimize en kaliteli hizmeti sunmak için çalışıyoruz.
 
 - 👀 İlgi alanlarımız arasında web ve mobil uygulama geliştirme, yapay zeka, veri analizi ve bulut bilişim gibi konular yer alıyor.
 
