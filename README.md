@@ -1,17 +1,58 @@
-- 👋 Merhaba, Ekayazilim.com.tr & ekasunucu.com web sitesinde faaliyet gösteren bir yazılım şirketi olarak, yazılım dünyasındaki gelişmeleri yakından takip ediyor ve müşterilerimize en kaliteli hizmeti sunmak için çalışıyoruz.
+# Eka Yazılım ve Bilişim Sistemleri
 
-- 👀 İlgi alanlarımız arasında web ve mobil uygulama geliştirme, yapay zeka, veri analizi ve bulut bilişim gibi konular yer alıyor.
+> 🚀 Modern yazılım çözümleri geliştiren, üretim odaklı ve yenilikçi bir teknoloji şirketi
 
-- 🌱 Şu anda öğrenmeye odaklandığımız konular arasında yeni teknolojilerin yanı sıra, mevcut bilgimizi ve tecrübemizi daha da derinleştirmek de bulunuyor.
+Eka Yazılım ve Bilişim Sistemleri olarak, web ve yazılım teknolojilerindeki gelişmeleri yakından takip ederek; performanslı, ölçeklenebilir ve sürdürülebilir çözümler geliştiriyoruz.
 
-- 💞️ İşbirliği yapmak istediğiniz projeler için bize ulaşabilirsiniz.
+Kurumsal projelerden SaaS sistemlere, otomasyon yazılımlarından özel geliştirmelere kadar geniş bir alanda aktif olarak üretim yapıyoruz.
 
-- 📫 Bize ulaşmak için ekayazilim.com.tr adresini ziyaret edebilir veya doğrudan info@ekayazilim.com.tr üzerinden mail atabilirsiniz.
+---
 
-<!---
-ekayazilim/ekayazilim, bu dosyasıyla birlikte ✨ özel ✨ bir depo olarak görüntülenir çünkü GitHub profilinizdeki README.md dosyası olarak kullanılır. Yaptığınız değişiklikleri önizlemek için Preview bağlantısını tıklayabilirsiniz.
---->
+## 💼 Faaliyet Alanlarımız
 
-Ayrıca, yazılım dünyasındaki gelişmeleri takip eden bir şirket olarak, farklı programlama dillerinde projeler geliştiriyoruz.
+* 🌐 Web tabanlı yazılım geliştirme
+* ⚙️ SaaS (Software as a Service) sistemleri
+* 🛒 E-ticaret ve marketplace çözümleri
+* 🤖 Yapay zeka destekli sistemler
+* ☁️ Sunucu ve hosting altyapıları
+* 🔗 API ve entegrasyon çözümleri
 
-Projelerimizde Php, Python, Java, C++, JavaScript ve Ruby gibi farklı programlama dillerini kullanarak müşterilerimize en iyi çözümleri sunuyoruz.
+---
+
+## 🧠 Teknoloji ve Uzmanlık
+
+Projelerimizde modern ve güçlü teknolojiler kullanıyoruz:
+
+* PHP (MVC mimariler, özel frameworkler)
+* JavaScript (Frontend & backend uygulamalar)
+* Python (otomasyon ve veri işleme)
+* Java & Kotlin (mobil ve backend sistemler)
+* C++ (yüksek performans gerektiren uygulamalar)
+* SQL & NoSQL veritabanları
+
+---
+
+## 🚀 Proje Yaklaşımımız
+
+* Gerçek üretim senaryolarına uygun mimari
+* Performans ve güvenlik odaklı geliştirme
+* Modüler ve genişletilebilir sistem tasarımı
+* Uzun vadeli sürdürülebilir yazılım altyapısı
+
+---
+
+## 🤝 İş Birliği
+
+Yeni projeler, ortak geliştirmeler ve iş birlikleri için bizimle iletişime geçebilirsiniz.
+
+---
+
+## 📫 İletişim
+
+🌐 Web: [https://www.ekayazilim.com.tr](https://www.ekayazilim.com.tr)
+🌐 Hosting: [https://www.ekasunucu.com](https://www.ekasunucu.com)
+📧 E-posta: [info@ekayazilim.com.tr](mailto:info@ekayazilim.com.tr)
+
+---
+
+> ⚡ Aktif olarak geliştirilen projeler ve açık kaynak çalışmalar için repolarımızı inceleyebilirsiniz.
